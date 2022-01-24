@@ -1,11 +1,12 @@
-REMIX EXAMPLE PROJECT
+REMIX IDE PROJECT
 
-Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
+Remix project is a smart contract project using Solidity language with Remix IDE
 It contains 3 directories:
 
 1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
 2. 'scripts': Holds two scripts to deploy a contract. It is explained below.
 3. 'tests': Contains one test file for 'Ballot' contract with unit tests in Solidity.
+4. 'SolidityContract': Holds smart contract application project.
 
 SCRIPTS
 
